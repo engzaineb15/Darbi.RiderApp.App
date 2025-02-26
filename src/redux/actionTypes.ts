@@ -1,0 +1,2 @@
+export const SET_START_POINT = "SET_START_POINT";
+export const SET_DROP_OFF_POINT = "SET_DROP_OFF_POINT";
