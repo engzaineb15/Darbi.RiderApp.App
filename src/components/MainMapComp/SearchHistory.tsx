@@ -13,7 +13,7 @@ import PlaceList from './PlaceList';
 import { useGoogleAutocomplete } from '@appandflow/react-native-google-autocomplete'
 
 
-const API_KEY = 'AIzaSyBs12CcUeEsZBVT2SI_nofD0473-PrKPho'
+const API_KEY = '...'
 
 const SearchHistory = ({ setsearchPlaceName, mapRegion, setOpenSearchModal,setLatitude,setLongitude,setUserLocation,setMapRegion,reverseGeocodeLocation, mapRef }:any) => {
   const { t, isArabic } = useLanguage();
